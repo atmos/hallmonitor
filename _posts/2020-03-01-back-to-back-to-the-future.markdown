@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Future charged"
-date:   2021-10-20 13:10:43 -0400
-categories: beingamotherfuckingg eggs
+date:   2021-03-01 13:10:43 -0400
+categories: fctj layers
 ---
 
 [My full review of the jacket here](https://www.reddit.com/r/Outlier/comments/duuo0y/6_flights_3_cities_2_weeks_1_jacket_futurecharge/) if you haven’t read it - written after 2 weeks of daily wear across 6 flights between Atlanta, Los Angeles, and San Francisco.

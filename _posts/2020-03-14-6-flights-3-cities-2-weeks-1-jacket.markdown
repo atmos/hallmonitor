@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "I'm dabesss"
-date:   2021-10-20 13:10:43 -0400
-categories: jekyll update
+title:  "Pi's original FCTJ review"
+date:   2021-03-14 13:10:43 -0400
+categories: layers
 ---
 
 [Full album](https://imgur.com/a/pnVHj0F)
